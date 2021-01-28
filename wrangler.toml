@@ -1,4 +1,4 @@
 workers_dev = true
-name = "teleworker"
+name = "happy"
 type = "webpack"
-account_id = ""
+account_id = "8dc9a7d1e1babe364f808d906c6f99c6"
