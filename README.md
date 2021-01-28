@@ -26,7 +26,7 @@
 
 #### 设置 bot 的 webhook
 ```
-curl https://api.telegram.org/bot<997333589:AAH4Bo-ER925sv2E1oeYlkha9EE09rHa7nU>/setWebhook -F 'url=https://<happy>.<tosaka>.workers.dev/teleworker'
+curl https://api.telegram.org/bot997333589:AAH4Bo-ER925sv2E1oeYlkha9EE09rHa7nU/setWebhook -F 'url=https://happy.tosaka.workers.dev/happy'
 ```
 
 注意：
